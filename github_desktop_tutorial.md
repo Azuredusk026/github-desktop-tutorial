@@ -11,25 +11,24 @@ GitHub 是一个代码托管平台，可以让你：
 ## 1. 注册 GitHub 账号
 
 1. 前往 [GitHub 官网](https://github.com/signup) 注册账号
-2. 使用你的邮箱注册（QQ邮箱、163邮箱都可以）
+2. 使用你的邮箱注册（QQ邮箱、Gmail、Outlook都行，平常使用的就可以）
 3. 记住你的用户名和密码
 
 ## 2. 下载 GitHub Desktop
 
 1. 前往 [GitHub Desktop 官网](https://desktop.github.com/) 下载
-2. 如果官网下载太慢，可以在应用商店搜索"GitHub Desktop"
+2. 如果官网下载太慢，可以在电脑平台应用商店搜索"GitHub Desktop"
 3. 下载完成后安装并打开
 
 ## 3. 登录你的 GitHub 账号
 
 1. 第一次打开软件会提示登录
-2. 点击"Sign in to GitHub.com"
-3. 输入你的用户名和密码
-4. 按照提示完成登录
+2. 输入你的用户名和密码
+3. 按照提示完成登录
 
 ## 4. 创建你的第一个仓库
 
-### 方法一：在网页端创建（推荐新手）
+### 方法一：在网页端创建（推荐）
 
 1. 登录 GitHub 网站
 2. 点击右上角的"+"号，选择"New repository"
@@ -37,14 +36,14 @@ GitHub 是一个代码托管平台，可以让你：
    - **Repository name**：仓库名称（如：my-first-project）
    - **Description**：项目描述（可选）
    - 选择 **Public**（公开）或 **Private**（私有）
-   - 勾选"Add a README file"
+   - 选择是否"Add a README file"
 4. 点击"Create repository"
 
 ### 方法二：在 GitHub Desktop 中创建
 
 1. 打开 GitHub Desktop
-2. 点击"Create a New Repository on your hard drive"
-3. 填写信息并选择本地路径
+2. 点击左上角的"Create new repository"
+3. 填写仓库信息并选择本地路径
 4. 点击"Create repository"
 
 ## 5. 克隆仓库到本地
