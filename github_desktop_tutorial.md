@@ -48,21 +48,17 @@ GitHub 是一个代码托管平台，可以让你：
 
 ## 5. 克隆仓库到本地
 
-1. 在 GitHub 网页端，进入你的仓库
+1. 在 GitHub 网页端，进入目标仓库
 2. 点击绿色的"Code"按钮
 3. 选择"Open with GitHub Desktop"
 4. 选择本地存储路径（建议选择你熟悉的文件夹）
 5. 点击"Clone"
 
-> **小贴士：** 选择一个你容易找到的文件夹，比如桌面或文档文件夹下的项目目录。
-
 ## 6. 编写和修改代码
 
-1. 点击"Show in Explorer"（Windows）或"Show in Finder"（Mac）打开项目文件夹
+1. 点击 Desktop 中的"Show in Explorer"（Windows）或"Show in Finder"（Mac）打开项目文件夹
 2. 在文件夹中创建或编辑你的文件
 3. 保存文件后，回到 GitHub Desktop
-
-**示例：** 创建一个 `hello.txt` 文件，写入"Hello, GitHub!"
 
 ## 7. 提交你的更改
 
@@ -79,14 +75,14 @@ GitHub 是一个代码托管平台，可以让你：
    - **Description**：详细描述（可选）
 3. 点击"Commit to main"
 
-**好的提交信息示例：**
+**提交描述示例：**
 - "添加了登录功能"
 - "修复了页面显示错误"
 - "更新了项目说明文档"
 
 ## 8. 推送到 GitHub
 
-1. 提交后，点击"Push origin"或"Publish branch"
+1. 提交后，点击右上角的"Push origin"或"Publish branch"
 2. 这样你的更改就上传到 GitHub 了
 3. 其他人就可以看到你的最新代码
 
@@ -143,34 +139,25 @@ A: 通常是因为远程仓库有新的更改，先点击"Pull origin"拉取最�
 ### Q: 如何下载别人的项目？
 A: 在 GitHub 网页端点击"Code" → "Open with GitHub Desktop"即可克隆。
 
-## 12. 最佳实践
+## 12. 一些建议
 
 1. **经常提交**：不要等到写完很多代码才提交
-2. **写清楚的提交信息**：让别人（和未来的你）能看懂你做了什么
+2. **写清楚的提交信息**：让别人（和未来的你）能看懂你这次提交做了什么
 3. **及时拉取**：开始工作前先拉取最新代码
 4. **备份重要项目**：GitHub 就是你的云端备份
 
-## 总结
-
-恭喜你！现在你已经学会了：
-- ✅ 注册 GitHub 账号
-- ✅ 使用 GitHub Desktop
-- ✅ 创建和克隆仓库
-- ✅ 提交和推送代码
-- ✅ 与他人协作
-
-开始你的 GitHub 之旅吧！记住，熟能生巧，多练习就会越来越熟练。
+开始你的 GitHub 之旅吧！记住，熟能生巧，一开始可能觉得生疏，当你在一个项目中磨练一段不长的时间后，你会发现你已经掌握了这项技能。
 
 ---
 
 **需要帮助？**
 - [GitHub Desktop 官方文档](https://docs.github.com/en/desktop)
 - [GitHub 帮助中心](https://support.github.com/)
-- 遇到问题可以在 GitHub 社区提问
+- 遇到问题可以在 GitHub 社区提问或询问作者
 
 ## 版权声明
 
-本教程由 [你的用户名] 编写，欢迎转载和分享，请保留原作者信息。
+本教程由 Azuredusk026(https://github.com/Azuredusk026) 编写，欢迎转载和分享，请保留原作者信息。
 
 ## 更新日志
 
